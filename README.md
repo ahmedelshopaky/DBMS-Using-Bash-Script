@@ -1,1 +1,0 @@
-# DBMS-using-Bash-Script
